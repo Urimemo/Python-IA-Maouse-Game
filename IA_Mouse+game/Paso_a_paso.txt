@@ -1,0 +1,8 @@
+python 3.8.0 (64 bits)
+python -m pip install --upgrade pip
+pip install opencv-contrib-python
+pip install mediapipe
+pip install autopy
+pip install cvzone
+
+//importante: rezar para que no de error
